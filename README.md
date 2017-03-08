@@ -17,7 +17,7 @@ How Pig Latin Works
 * Then open the webpage via a browser of your choice.
 
 # link to site on GitHub Pages
-https://amy1hwang.github.io/track-suggester
+https://amy1hwang.github.io/piglatin
 
 # copyright and license information
 Copyright (c) 2016 Amy Hwang. This software is licensed under the Github license.
